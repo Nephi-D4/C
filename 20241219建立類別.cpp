@@ -7,6 +7,10 @@ class myTime{
 		int minute;
 		void printTime();
 };
+
+void myTime::printTime(){
+   count<<hour<<":"<<minute<<"/n";
+}
 int mail(){
 	
 }
