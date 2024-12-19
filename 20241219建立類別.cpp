@@ -21,5 +21,4 @@ int mail(){
     cout<<"開張時間:";
     open.printTime();
 }
-	
-}
+
